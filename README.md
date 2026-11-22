@@ -12,6 +12,9 @@ K1 和 K2 的最短衔接承诺用于预先认定接续保护，之后能否实�
 - `rebooks.json` 记录字段为 `rebook`、`ticket`、`flight`、`state`、`compensation`。
 - `expenses.json` 记录字段为 `receipt`、`type`、`tickets`、`cost`、`state`。
 - `agreements.json` 记录字段为 `rule`、`single`、`combined`、`unresolved`。
+- `rebook_updates.json` 记录字段为 `ticket`、`from`、`to`、`at`、`status`。
+- `accounting.json` 记录字段为 `claim`、`expense`、`carrier`、`tickets`、`amount`、`service_period`、`received_period`、`state`。
+- `rooms.json` 记录字段为 `receipt`、`room_key`、`guests`、`amount`、`bill`。
 
 ## 运行
 

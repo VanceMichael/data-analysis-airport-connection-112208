@@ -115,5 +115,32 @@
     "latest": "637",
     "revision": "1",
     "cause": "C2"
+  },
+  {
+    "flight": "F9",
+    "event": "开门",
+    "at": "820",
+    "earliest": "820",
+    "latest": "820",
+    "revision": "1",
+    "cause": "?"
+  },
+  {
+    "flight": "F8",
+    "event": "开门",
+    "at": "815",
+    "earliest": "815",
+    "latest": "815",
+    "revision": "1",
+    "cause": "?"
+  },
+  {
+    "flight": "F9",
+    "event": "接驳完成",
+    "at": "845",
+    "earliest": "845",
+    "latest": "845",
+    "revision": "1",
+    "cause": "机场"
   }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "claim": "Q1",
+    "expense": "E1",
+    "carrier": "C1",
+    "tickets": "A1+A2",
+    "amount": "240",
+    "service_period": "P1",
+    "received_period": "P1",
+    "state": "实付旅客"
+  },
+  {
+    "claim": "Q2",
+    "expense": "E1",
+    "carrier": "C2",
+    "tickets": "A2",
+    "amount": "120",
+    "service_period": "P1",
+    "received_period": "P2",
+    "state": "申领同房"
+  },
+  {
+    "claim": "Q3",
+    "expense": "E1B",
+    "carrier": "C2",
+    "tickets": "A4",
+    "amount": "160",
+    "service_period": "P1",
+    "received_period": "P2",
+    "state": "独立房"
+  },
+  {
+    "claim": "Q4",
+    "expense": "E1",
+    "carrier": "C2",
+    "tickets": "A1",
+    "amount": "70",
+    "service_period": "P1",
+    "received_period": "P2",
+    "state": "合作方结算"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "receipt": "E1",
+    "room_key": "RM-A",
+    "guests": "A1+A2",
+    "amount": "240",
+    "bill": "Z9"
+  },
+  {
+    "receipt": "E1B",
+    "room_key": "RM-B",
+    "guests": "A4",
+    "amount": "160",
+    "bill": "Z9"
+  }
+]
