@@ -1,0 +1,37 @@
+[
+  {
+    "rebook": "B1",
+    "ticket": "A1",
+    "flight": "F9",
+    "state": "接受",
+    "compensation": "60"
+  },
+  {
+    "rebook": "B2",
+    "ticket": "A1",
+    "flight": "F8",
+    "state": "未选",
+    "compensation": "55"
+  },
+  {
+    "rebook": "B3",
+    "ticket": "A2",
+    "flight": "F9",
+    "state": "接受",
+    "compensation": "60"
+  },
+  {
+    "rebook": "B4",
+    "ticket": "A3",
+    "flight": "F8",
+    "state": "待选",
+    "compensation": "40"
+  },
+  {
+    "rebook": "B5",
+    "ticket": "A4",
+    "flight": "F10",
+    "state": "拒绝",
+    "compensation": "65"
+  }
+]

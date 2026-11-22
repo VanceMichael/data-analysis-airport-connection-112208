@@ -1,0 +1,119 @@
+[
+  {
+    "flight": "F1",
+    "event": "到位",
+    "at": "720",
+    "earliest": "720",
+    "latest": "720",
+    "revision": "1",
+    "cause": "?"
+  },
+  {
+    "flight": "F1",
+    "event": "开门",
+    "at": "734",
+    "earliest": "734",
+    "latest": "734",
+    "revision": "1",
+    "cause": "C1"
+  },
+  {
+    "flight": "F1",
+    "event": "接驳完成",
+    "at": "?",
+    "earliest": "748",
+    "latest": "766",
+    "revision": "1",
+    "cause": "机场"
+  },
+  {
+    "flight": "F1",
+    "event": "接驳完成",
+    "at": "756",
+    "earliest": "756",
+    "latest": "756",
+    "revision": "2",
+    "cause": "机场"
+  },
+  {
+    "flight": "F2",
+    "event": "关门",
+    "at": "751",
+    "earliest": "751",
+    "latest": "751",
+    "revision": "1",
+    "cause": "C2"
+  },
+  {
+    "flight": "F3",
+    "event": "到位",
+    "at": "610",
+    "earliest": "610",
+    "latest": "610",
+    "revision": "1",
+    "cause": "?"
+  },
+  {
+    "flight": "F3",
+    "event": "开门",
+    "at": "614",
+    "earliest": "614",
+    "latest": "614",
+    "revision": "1",
+    "cause": "?"
+  },
+  {
+    "flight": "F3",
+    "event": "接驳完成",
+    "at": "621",
+    "earliest": "621",
+    "latest": "621",
+    "revision": "1",
+    "cause": "?"
+  },
+  {
+    "flight": "F4",
+    "event": "关门",
+    "at": "623",
+    "earliest": "623",
+    "latest": "623",
+    "revision": "1",
+    "cause": "C2"
+  },
+  {
+    "flight": "F5",
+    "event": "到位",
+    "at": "610",
+    "earliest": "610",
+    "latest": "610",
+    "revision": "1",
+    "cause": "?"
+  },
+  {
+    "flight": "F5",
+    "event": "开门",
+    "at": "626",
+    "earliest": "626",
+    "latest": "626",
+    "revision": "1",
+    "cause": "C1"
+  },
+  {
+    "flight": "F5",
+    "event": "接驳完成",
+    "at": "640",
+    "earliest": "640",
+    "latest": "640",
+    "revision": "1",
+    "cause": "机场"
+  },
+  {
+    "flight": "F6",
+    "event": "关门",
+    "at": "637",
+    "earliest": "637",
+    "latest": "637",
+    "revision": "1",
+    "cause": "C2"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "rule": "K1",
+    "single": "独立可恢复方均分",
+    "combined": "必要责任方均分",
+    "unresolved": "暂挂"
+  },
+  {
+    "rule": "K2",
+    "single": "独立可恢复方均分",
+    "combined": "必要责任方均分",
+    "unresolved": "暂挂"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "receipt": "E1",
+    "type": "房间",
+    "tickets": "A1+A2",
+    "cost": "240",
+    "state": "已付旅客"
+  },
+  {
+    "receipt": "E2",
+    "type": "接驳",
+    "tickets": "A3",
+    "cost": "45",
+    "state": "待核"
+  },
+  {
+    "receipt": "E3",
+    "type": "餐食",
+    "tickets": "A4",
+    "cost": "40",
+    "state": "已付旅客"
+  }
+]

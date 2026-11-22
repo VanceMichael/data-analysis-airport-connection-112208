@@ -1,0 +1,38 @@
+[
+  {
+    "ticket": "A1",
+    "group": "G1",
+    "inbound": "F1",
+    "outbound": "F2",
+    "carrier": "C1",
+    "rule": "K1",
+    "min_transfer": "24"
+  },
+  {
+    "ticket": "A2",
+    "group": "G1",
+    "inbound": "F1",
+    "outbound": "F2",
+    "carrier": "C2",
+    "rule": "K1",
+    "min_transfer": "24"
+  },
+  {
+    "ticket": "A3",
+    "group": "G2",
+    "inbound": "F3",
+    "outbound": "F4",
+    "carrier": "C1",
+    "rule": "K2",
+    "min_transfer": "18"
+  },
+  {
+    "ticket": "A4",
+    "group": "G3",
+    "inbound": "F5",
+    "outbound": "F6",
+    "carrier": "C2",
+    "rule": "K1",
+    "min_transfer": "18"
+  }
+]

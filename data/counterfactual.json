@@ -1,0 +1,26 @@
+[
+  {
+    "cause": "C1",
+    "affected": "F1开门",
+    "reference": "722",
+    "rule": "K1"
+  },
+  {
+    "cause": "机场",
+    "affected": "F1接驳",
+    "reference": "10",
+    "rule": "K1"
+  },
+  {
+    "cause": "C2",
+    "affected": "F2关门",
+    "reference": "759",
+    "rule": "K1"
+  },
+  {
+    "cause": "C2",
+    "affected": "F4关门",
+    "reference": "629",
+    "rule": "K2"
+  }
+]
